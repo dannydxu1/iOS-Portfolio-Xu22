@@ -19,7 +19,7 @@ Since my freshman year of high school, I have resold clothing and shoes. During 
 
 While using Puppeteer, I learned more about HTML and CSS, as being able to read what different tags meant was crucial for traversing the DOM of websites. However, Puppeteer was not enough for my needs, so I started learning how to use NodeJS's cheerio (lightweight version of JQuery) and request libraries. As both a custom mechanical keyboard enthusiast and a penny-pincher, I worked with my friend to create a Discord Bot, using Discord's JS API, that takes in keywords and returns recent posts scraped from a subreddit for selling mechanical keyboards. We dubbed the bot [MechMarket Scraper](https://github.com/dannydxu1/Reddit-Webscraping/blob/main/scraper.js), based off of the name of the subreddit (r/mechmarket).
 
-To track my packages, I made a quick project to practice my JavaScript skills, called [USPS Scraper] (https://github.com/dannydxu1/Reddit-Webscraping/blob/main/usps.js) that takes in USPS links and scrapes the statuses of the packages. The project is linked
+To track my packages, I made a quick project to practice my JavaScript skills, called [USPS Scraper](https://github.com/dannydxu1/Reddit-Webscraping/blob/main/usps.js) that takes in USPS links and scrapes the statuses of the packages. The project is linked
 
 While learning how to buy/sell stocks within my Personal Finance class, I found an oppurtunity to automate the process our teacher recommended to evaluate stocks. My [StockScraper](https://github.com/dannydxu1/Reddit-Webscraping/blob/main/StockScraper.js) takes in ticker symbols, and evaluates the stock, based off of four criterion, using company information scraped from Yahoo FInance.
 
