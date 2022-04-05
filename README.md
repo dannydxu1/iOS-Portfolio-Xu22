@@ -7,12 +7,19 @@ Hello! I'm Danny Xu, and this is my computer science portfolio. In elementary sc
 During APCSP, I learned about the components of algorithms, how computers/the Internet work, and worked on a final project called the CREATE project. At the time I was obsessed with maximizing my productivity, so of course I made a productivity app for my final project. The app was built in MIT App Inventor, and was a To Do List and a Pomodoro Study Timer App. The user input was stored on TinyWebDB, and there were even multiple color themes. ![image](https://user-images.githubusercontent.com/95701961/161796430-61962fdc-8c79-43c0-a29f-1c22c7d38418.png)
 
 ## AP Computer Science A
-During APCSA, I gained a proficient understanding of Java and object-oriented programming. During the Holiday season of 2022, I followed along with Advent of Code's programming challenges. My solutions are linked [here](https://github.com/dannydxu1/AOC2021). 
+During APCSA, I gained a proficient understanding of Java and object-oriented programming. During the Holiday season of 2021, I followed along with Advent of Code's programming challenges. My solutions are linked [here](https://github.com/dannydxu1/AOC2021). 
 
-## New to Github
+## Futurist Academy
+Within the Futurist Academy club at my high school, I worked on a myriad of extracurricular programming projects with my classmates. During 2020, I gained a rudimentary understanding of Python, and worked my clubmates to create graphical visualizations of data sets. During 2021, we started using Flutter to build apps for clubs at our school. 
+
+## Web Scraping
+Since my freshman year of high school, I have resold exclusive problem. During my senior year, with my newfound programming skills, I decided to try my hand at web-scraping, in order to create my own bot to automate purchasing products. I did this through JavaScript and through various NodeJS libraries. I started with the Puppeteer library within NodeJS, which I used to create a script that automatically adds items to carts and fills in information. My "bot" is linked [here](https://github.com/dannydxu1/SneakerBot).
+###### Test
+
+## Github
 After working with my classmates, I learned how to how to push/pull/commit repositories Github Desktop as well as in command line through terminal. 
 
-## New to XCode
+##XCode
 After watching hours of tutorials, I learned the fundamentals of how Swift and XCode work, and the difference between SwiftUI and Swift Storyboard. I learned how to make a simple app and how constraints and the different horizontal/vertical stacks work. I also learned more about the front-end side of app development, discovering how to create a loading-screen, app-icon and how to affect other components of an app's UI.
 
 ## New to Sketch
