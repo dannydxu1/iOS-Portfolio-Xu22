@@ -20,15 +20,15 @@ Since my freshman year of high school, I have resold clothing and shoes. During 
 While using Puppeteer, I learned more about HTML and CSS, as being able to read what different tags meant was crucial for traversing the DOM of websites. However, Puppeteer was not enough for my needs, so I started learning how to use NodeJS's cheerio and request libraries. As both a custom mechanical keyboard enthusiast and a penny-pincher, I worked with my friend to create a Discord Bot, using Discord's JS API, that takes in keywords and returns recent posts scraped from a subreddit for selling mechanical keyboards. 
 ![image](https://user-images.githubusercontent.com/95701961/161868263-c73fbd26-590c-4094-8ef2-34a9a65aa287.png)
 
-## [StockScraper](https://github.com/dannydxu1/Reddit-Webscraping/blob/main/StockScraper.js
+## [Stock Scraper](https://github.com/dannydxu1/Reddit-Webscraping/blob/main/StockScraper.js)
 While learning how to buy/sell stocks within my Personal Finance class, I found an oppurtunity to automate the process our teacher recommended to evaluate stocks. My script takes in ticker symbols, and evaluates the stock, based off of four criterion, using company information scraped from Yahoo Finance.
 ![image](https://user-images.githubusercontent.com/95701961/161868358-dfffd146-9199-4729-861a-66f4e0063477.png)
 
 ## [Tip Calculator App](https://github.com/RohitP123/FinalTipCalc)
-This was my first Swift app that I worked on with a partner. It was very simple and created by following a tutorial, but it was enough to familiarize me with the basics of swift.
+This was my first Swift app that I worked on with a partner. It was created by following a tutorial, but it was enough to familiarize me with the basics of Swift.
 
 ## [Cash Register Counter](https://github.com/RohitP123/Cash-Register-App/blob/main/README.md)
-
+This app was created to make it easier for workers to count money within cash registers. Creating this app taught me a great deal about working with a partner and source control, as well as how to implement and receieve feedback on apps and to account for different types of users and devices. I also learned how to use paddings, bindings, and how to make a UI that "makes sense".
 
 ## Github
 After working with my classmates, I learned how to how to push/pull/commit repositories on Github Desktop as well as in the command line through the terminal. 
