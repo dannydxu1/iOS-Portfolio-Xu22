@@ -13,7 +13,8 @@ At the time I took APCSP, I was obsessed with maximizing my productivity, so of 
 
 ## [AP Computer Science A: Advent of Code](https://github.com/dannydxu1/AOC2021)
 During APCSA, I gained a proficient understanding of Java and object-oriented programming. During December of 2021, I followed along with Advent of Code's daily programming challenges which I completed in Java. Solving these questions familiarized me with the concept of scanners and arrays, and how to debug complex code.
-<img src="![image](https://user-images.githubusercontent.com/95701961/162035756-0221889d-c71f-4e4c-8a3e-c9c95067fb13.png" width=20% height=80%/>
+
+<img src="(https://user-images.githubusercontent.com/95701961/162035756-0221889d-c71f-4e4c-8a3e-c9c95067fb13.png" width=20% height=80%/>
 
 ## [Reselling Bot](https://github.com/dannydxu1/SneakerBot)
 Since my freshman year of high school, I have resold clothing and shoes. During my senior year, with my newfound programming skills, I decided to try my hand at web-scraping and web automation, in order to create my own bot to automate purchasing products. I did this through JavaScript and VSCode, and through various NodeJS libraries. I started with the Puppeteer library within NodeJS, which I used to create a script that automatically adds items to shopping carts and autofill payment information.
