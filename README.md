@@ -1,14 +1,17 @@
 # iOS-Portfolio-Xu22
 
 ## Introduction
-Hello! I'm Danny Xu, and this is my high school computer science portfolio. My first computer science class was AP Computer Science Principles, where I obtained a holistic introduction to computer science; I learned about types of data, algorithms and programming, and computer systems/networks. Next I took AP Computer Science A (Java), where I learned about object-oriented programming, arrays, inheritance, classes, and recursion. Taking AP CS A solidified my interest in computer science and gave me a foundation to learn more languages. Currently, I am taking iOS App Development and learning how to use Swift and XCode to create iOS applications.
+Hello! I'm Danny Xu, and this is my high school computer science portfolio. 
+- My first computer science class was AP Computer Science Principles, where I obtained a holistic introduction to computer science; I learned about types of data, algorithms and programming, and computer systems/networks. 
+- Next I took AP Computer Science A (Java), where I learned about object-oriented programming, arrays, inheritance, classes, and recursion. Taking AP CS A solidified my interest in computer science and gave me a foundation to learn more languages. 
+- Currently, I am taking iOS App Development and learning how to use Swift and XCode to create iOS applications.
 
-## AP Computer Science Principles CREATE Final
+## [AP Computer Science Principles: CREATE Final](https://docs.google.com/document/d/1ClsD0Z-4PiMSP5-qt0z-w4KmchkOKExmfA0RjT2hSvk/edit?usp=sharing)
 At the time I took APCSP, I was obsessed with maximizing my productivity, so of course, I made a productivity app for my final project. The app was built using MIT App Inventor and was a To-Do List/Pomodoro Study Timer App. This was my first taste of mobile app development, and this project taught me about the app development process.
 
 <img src="https://user-images.githubusercontent.com/95701961/161796430-61962fdc-8c79-43c0-a29f-1c22c7d38418.png" width=20% height=80%/>
 
-## [AP Computer Science A Advent of Code](https://github.com/dannydxu1/AOC2021)
+## [AP Computer Science A: Advent of Code](https://github.com/dannydxu1/AOC2021)
 During APCSA, I gained a proficient understanding of Java and object-oriented programming. During December of 2021, I followed along with Advent of Code's daily programming challenges which I completed in Java. Solving these questions familiarized me with the concept of scanners and arrays, and how to debug complex code.
 
 ## [Reselling Bot](https://github.com/dannydxu1/SneakerBot)
