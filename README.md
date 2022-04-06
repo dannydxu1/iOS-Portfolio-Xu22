@@ -5,7 +5,7 @@ Hello! I'm Danny Xu, and this is my high school computer science portfolio. My f
 
 ## AP Computer Science Principles CREATE Final
 At the time I took APCSP, I was obsessed with maximizing my productivity, so of course, I made a productivity app for my final project. The app was built using MIT App Inventor and was a To-Do List/Pomodoro Study Timer App. This was my first taste of mobile app development, and this project taught me about the app development process.
-![image](https://user-images.githubusercontent.com/95701961/161796430-61962fdc-8c79-43c0-a29f-1c22c7d38418.png)
+<img src="https://user-images.githubusercontent.com/95701961/161796430-61962fdc-8c79-43c0-a29f-1c22c7d38418.png" width=20% height=80%/>
 
 ## [AP Computer Science A Advent of Code](https://github.com/dannydxu1/AOC2021)
 During APCSA, I gained a proficient understanding of Java and object-oriented programming. During December of 2021, I followed along with Advent of Code's daily programming challenges which I completed in Java. Solving these questions familiarized me with the concept of scanners and arrays, and how to debug complex code.
@@ -29,7 +29,8 @@ This was my first Swift app that I worked on with a partner. It was created by f
 
 ## [Cash Register Counter](https://github.com/RohitP123/Cash-Register-App/blob/main/README.md)
 This app was created to make it easier for workers to count money within cash registers. Creating this app taught me a great deal about working with a partner and source control, as well as how to implement and receieve feedback on apps and to account for different types of users and devices. I also learned how to use paddings, bindings, and how to make a UI that "makes sense".
-
+ <img src="https://user-images.githubusercontent.com/95701961/162021976-a6a72bca-8194-427e-ba07-a415abba3e99.PNG" width=20% height=80%/>
+ 
 ## Github
 After working with my classmates, I learned how to how to push/pull/commit repositories on Github Desktop as well as in the command line through the terminal. 
 
