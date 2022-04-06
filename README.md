@@ -1,7 +1,7 @@
 # iOS-Portfolio-Xu22
 
 ## Introduction
-Hello! I'm Danny Xu, and this is my high school computer science portfolio. My first computer science class was AP Computer Science Principles, where I obtained a holistic introduction to computer science; I learned about types of data, algorithms and programming, and computer systems/networks. Next I took AP Computer Science A (Java), where I learned about object-oriented programming, arrays, inheritance, classes, and recursion. Taking AP CS A solidified my interest in computer science and gave me a foundation to learn more languages. Currently, I am taking iOS App Development and learning how to use Swift and XCode to create iOS application.s
+Hello! I'm Danny Xu, and this is my high school computer science portfolio. My first computer science class was AP Computer Science Principles, where I obtained a holistic introduction to computer science; I learned about types of data, algorithms and programming, and computer systems/networks. Next I took AP Computer Science A (Java), where I learned about object-oriented programming, arrays, inheritance, classes, and recursion. Taking AP CS A solidified my interest in computer science and gave me a foundation to learn more languages. Currently, I am taking iOS App Development and learning how to use Swift and XCode to create iOS applications.
 
 ## AP Computer Science Principles CREATE Final
 At the time I took APCSP, I was obsessed with maximizing my productivity, so of course, I made a productivity app for my final project. The app was built using MIT App Inventor and was a To-Do List/Pomodoro Study Timer App. This was my first taste of mobile app development, and this project taught me about the app development process.
@@ -24,10 +24,14 @@ While using Puppeteer, I learned more about HTML and CSS, as being able to read 
 While learning how to buy/sell stocks within my Personal Finance class, I found an oppurtunity to automate the process our teacher recommended to evaluate stocks. My [StockScraper](https://github.com/dannydxu1/Reddit-Webscraping/blob/main/StockScraper.js) takes in ticker symbols, and evaluates the stock, based off of four criterion, using company information scraped from Yahoo Finance.
 ![image](https://user-images.githubusercontent.com/95701961/161868358-dfffd146-9199-4729-861a-66f4e0063477.png)
 
+## [Tip Calculator App](https://github.com/RohitP123/FinalTipCalc)
+This was my first Swift app that I worked on with a partner. It was very simple and created by following a tutorial, but it was enough to familiarize me with the basics of swift.
+
+## [Cash Register Counter](https://github.com/RohitP123/Cash-Register-App/blob/main/README.md)
+
+
 ## Github
 After working with my classmates, I learned how to how to push/pull/commit repositories on Github Desktop as well as in the command line through the terminal. 
 
 ## XCode
 After watching hours of tutorials, I learned the fundamentals of how Swift and XCode work, and the difference between SwiftUI and Swift Storyboard. I learned how to make a simple app and how constraints and the different horizontal/vertical stacks work. I also learned more about the front-end side of app development, discovering how to create a loading screen, app-icon and how to affect other components of an app's UI.
-
-## New to Sketch
