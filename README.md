@@ -30,9 +30,11 @@ While learning how to buy/sell stocks within my Personal Finance class, I found 
 
 ## [Tip Calculator App](https://github.com/RohitP123/FinalTipCalc)
 This was my first Swift app that I worked on with a partner. It was created by following this [tutorial](https://www.youtube.com/watch?v=fnHDbTDPu3s&t=911s), but it was enough to familiarize me with the basics of Swift. This tutorial taught me about buttons, text fields, and other types of objects in SwiftUI. I also learned about state variables and how to use views to make simplify apps.
+<img src="https://user-images.githubusercontent.com/95701961/162037697-be3d0d31-2a1e-4f11-b183-f1b02411b55b.PNG" width=20% height=80%/>
 
 ## [Cash Register Counter](https://github.com/RohitP123/Cash-Register-App/blob/main/README.md)
 This app was created to make it easier for workers to count money within cash registers. Creating this app taught me a great deal about working with a partner and source control, as well as how to implement and receieve feedback on apps and to account for different types of users and devices. I also learned how to use paddings, bindings, and how to make a UI that "makes sense".
 
  <img src="https://user-images.githubusercontent.com/95701961/162021976-a6a72bca-8194-427e-ba07-a415abba3e99.PNG" width=20% height=80%/>
  
+
