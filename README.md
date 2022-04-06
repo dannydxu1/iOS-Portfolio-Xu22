@@ -1,7 +1,7 @@
 # iOS-Portfolio-Xu22
 
 ## Introduction
-Hello! I'm Danny Xu, and this is my high school computer science portfolio. 
+Hello! I'm Danny Xu, a current Senior at Eden Prairie High School, and this is my high school computer science portfolio. 
 - My first computer science class was AP Computer Science Principles, where I obtained a holistic introduction to computer science; I learned about types of data, algorithms and programming, and computer systems/networks. 
 - Next I took AP Computer Science A (Java), where I learned about object-oriented programming, arrays, inheritance, classes, and recursion. Taking AP CS A solidified my interest in computer science and gave me a foundation to learn more languages. 
 - Currently, I am taking iOS App Development and learning how to use Swift and XCode to create iOS applications.
