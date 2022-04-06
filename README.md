@@ -5,6 +5,7 @@ Hello! I'm Danny Xu, and this is my high school computer science portfolio. My f
 
 ## AP Computer Science Principles CREATE Final
 At the time I took APCSP, I was obsessed with maximizing my productivity, so of course, I made a productivity app for my final project. The app was built using MIT App Inventor and was a To-Do List/Pomodoro Study Timer App. This was my first taste of mobile app development, and this project taught me about the app development process.
+
 <img src="https://user-images.githubusercontent.com/95701961/161796430-61962fdc-8c79-43c0-a29f-1c22c7d38418.png" width=20% height=80%/>
 
 ## [AP Computer Science A Advent of Code](https://github.com/dannydxu1/AOC2021)
@@ -19,11 +20,12 @@ Since my freshman year of high school, I have resold clothing and shoes. During 
 ## [MechMarket Scraper](https://github.com/dannydxu1/Reddit-Webscraping/blob/main/scraper.js)
 While using Puppeteer, I learned more about HTML and CSS, as being able to read what different tags meant was crucial for traversing the DOM of websites. However, Puppeteer was not enough for my needs, so I started learning how to use NodeJS's cheerio and request libraries. As both a custom mechanical keyboard enthusiast and a penny-pincher, I worked with my friend to create a Discord Bot, using Discord's JS API, that takes in keywords and returns recent posts scraped from a subreddit for selling mechanical keyboards. 
 
-<img src="https://user-images.githubusercontent.com/95701961/161868263-c73fbd26-590c-4094-8ef2-34a9a65aa287.png" width=20% height=80%/>
+<img src="https://user-images.githubusercontent.com/95701961/161868263-c73fbd26-590c-4094-8ef2-34a9a65aa287.png" width=50% height=50%/>
 
 ## [Stock Scraper](https://github.com/dannydxu1/Reddit-Webscraping/blob/main/StockScraper.js)
 While learning how to buy/sell stocks within my Personal Finance class, I found an oppurtunity to automate the process our teacher recommended to evaluate stocks. My script takes in ticker symbols, and evaluates the stock, based off of four criterion, using company information scraped from Yahoo Finance.
-<img src="https://user-images.githubusercontent.com/95701961/161868358-dfffd146-9199-4729-861a-66f4e0063477.png" width=20% height=80%/>
+
+<img src="https://user-images.githubusercontent.com/95701961/161868358-dfffd146-9199-4729-861a-66f4e0063477.png" width=50% height=50%/>
 
 ## [Tip Calculator App](https://github.com/RohitP123/FinalTipCalc)
 This was my first Swift app that I worked on with a partner. It was created by following a tutorial, but it was enough to familiarize me with the basics of Swift.
