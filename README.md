@@ -35,8 +35,8 @@ This was my first Swift app that I worked on with a partner. It was created by f
 <img src="https://user-images.githubusercontent.com/95701961/162037697-be3d0d31-2a1e-4f11-b183-f1b02411b55b.PNG" width=20% height=80%/>
 
 ## [Cash Register Counter](https://github.com/RohitP123/Cash-Register-App/blob/main/README.md)
-This was my first "real" Swift app that I made for iOS without following any tutorials. I made it with my partner [Rohit P](https://github.com/RohitP123)! It is a SwiftUI app and was created to make it easier for workers to count money within cash registers. Creating this app taught me a great deal about working with a partner and source control, as well as how to implement and receieve feedback on apps and to account for different types of users and devices. I also learned how to use paddings, bindings, and how to make a UI that "makes sense". After many revisions, Cash Register Counter is now available on the iOS App Store for download! Download Version 1.0 [here](https://apps.apple.com/us/app/cash-register-counter/id1617114923)
+This was my first "real" Swift app that I made for iOS without following any tutorials. I made it with my partner [Rohit P](https://github.com/RohitP123)! It is a SwiftUI app and was created to make it easier for workers to count money within cash registers. Creating this app taught me a great deal about working with a partner and source control, as well as how to implement and receieve feedback on apps and to account for different types of users and devices. I also learned how to use paddings, bindings, and how to make a UI that "makes sense". After many revisions, Cash Register Counter is now available on the iOS App Store for download! Download Version 1.0 [here](https://apps.apple.com/us/app/cash-register-counter/id1617114923)!
 
- <img src="https://user-images.githubusercontent.com/95701961/162021976-a6a72bca-8194-427e-ba07-a415abba3e99.PNG" width=20% height=80%/>
- 
+ <img src="https://user-images.githubusercontent.com/95701961/172241632-239e7043-67c5-4c50-a59b-1ad5c94de365.png" width=20% height=80%/>
+
 
